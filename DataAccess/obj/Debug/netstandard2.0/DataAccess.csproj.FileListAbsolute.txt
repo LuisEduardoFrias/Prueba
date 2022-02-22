@@ -1,0 +1,13 @@
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\extlfrias\source\repos\Prueba\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
